@@ -283,10 +283,10 @@ body {
 }
 
 .container1 {
-    width: 600px;
+    width: 50%;
     max-height: 500px;
     padding: 10px;
-    margin-left: 100px;
+    margin: auto;
 }
 .container2 {
     width: 600px;
@@ -321,7 +321,7 @@ body {
 }
 
 .Technical-bars .bar .info {
-    margin-bottom: 5px;
+    margin: auto;
 }
 
 .Technical-bars .bar .info span {
